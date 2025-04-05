@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "p_circuit_proto",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "p_circuit_proto_vial"
+        }
+    ]
+}
